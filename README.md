@@ -25,8 +25,10 @@ The report will be displayed with visuals, charts, and tables.
 Interact with the visuals to gain insights into the performance of the Healthcare Analysis.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+## Dashboard
 ## Screenshot
+![Screenshot (18)](https://github.com/sabihaKerur/HealthCare_Analysis/assets/104004284/d46b640c-5309-4a9c-a8a3-c9c00c0f8e96)
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
