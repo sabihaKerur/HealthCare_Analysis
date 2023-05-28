@@ -23,6 +23,8 @@ Power BI desktop version (latest) Olist store dataset in Excel or CSV format Ins
 Open the Power BI file 'Healthcare_Analysis.pbix'.
 The report will be displayed with visuals, charts, and tables.
 Interact with the visuals to gain insights into the performance of the Healthcare Analysis.
+__________________________________________________________________________________________________________________________________________________________________ ## SQL Quarry file 
+SQL Quarry file :https://github.com/sabihaKerur/HealthCare_Analysis/upload/main
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Dashboard
