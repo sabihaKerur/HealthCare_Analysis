@@ -27,7 +27,8 @@ Interact with the visuals to gain insights into the performance of the Healthcar
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Dashboard
 ## Screenshot
-![Screenshot (18)](https://github.com/sabihaKerur/HealthCare_Analysis/assets/104004284/d46b640c-5309-4a9c-a8a3-c9c00c0f8e96)
+![Screenshot (21)](https://github.com/sabihaKerur/HealthCare_Analysis/assets/104004284/c3e3e7e4-5816-4378-bf42-d857e88d193a)
+
 
 
 
