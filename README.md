@@ -12,10 +12,11 @@ By collecting and cleaning the data, the project aims to uncover trends, pattern
 ## Dataset
 
 The dataset used for this analysis covers the period from the fourth quarter of 2016 to 2020. It includes information on hospital facilities, inpatient and outpatient details, revenue generation, and bed occupancy. The dataset provides a comprehensive view of the California healthcare system during the specified timeframe.
+The CSV File is : https://github.com/sabihaKerur/HealthCare_Analysis/blob/main/healthcare.csv
 
 ## Usage
 
 To use and explore this project:
 
-1. Clone the repository:
-2.
+1.  the repository:
+
